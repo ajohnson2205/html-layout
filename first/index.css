@@ -6,30 +6,28 @@ div {
 }
 
 .top-box {
-  background-color: rgb(68,68,68);
+  background-color: rgb(68, 68, 68);
   width: auto;
 }
 
 .middle-holder {
   background-color: rgb(216, 216, 216);
-  width:100vw;
-  height:90vh;
+  width: 100vw;
+  height: 90vh;
 }
 
-
 .middle-big-box {
-  background-color: rgb(239,239,239);
+  background-color: rgb(239, 239, 239);
   width: 60%;
   margin: auto;
   margin-top: 0;
-  height:90%;
+  height: 90%;
 }
 
-
 .bottom-box {
-  background-color: rgb(34,34,34);
+  background-color: rgb(34, 34, 34);
   height: 10%;
-  width:60%;
+  width: 60%;
   bottom: 0;
   margin: auto;
 }
